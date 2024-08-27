@@ -1,10 +1,14 @@
 name: Update Blog Posts
-  
 
+permissions:
+  pull-requests: write
+  contents: write
+  repository-projects: write
+  
 on:
   push:
       branches:
-        - master
+        - main
   schedule:
     - cron: '0 0 * * *'  # 매일 자정에 실행
 
