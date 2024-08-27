@@ -25,8 +25,7 @@ feed = feedparser.parse(rss_url)
 for entry in feed.entries:
     # 파일 이름에서 유효하지 않은 문자 제거 또는 대체
     file_name = entry.title
-    file_name = file_name.replace('/', '-')  # 슬래시를 대시로 대체
-    file_name = file_name.replace('\\', '-')  # 백슬래시를 대시로 대체
+    file_name = file_name.replace('/', '-').replace('\\', '-')  
     # 필요에 따라 추가 문자 대체
     file_name += '.md'
     file_path = os.path.join(posts_dir, file_name)
