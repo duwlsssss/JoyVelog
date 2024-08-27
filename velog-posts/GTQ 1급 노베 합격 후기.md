@@ -6,8 +6,8 @@
 </blockquote>
 <p>시험은 <strong>매달 넷째주 토요일</strong>에 정기적으로 시행됩니다.
 원서 접수를 하고 공부를 시작해도 충분합니다. 
-포토샵 버전을 선택해 접수를 할 수 있는데 cs4, cs6은 이제 어도비에서 지원하지 않기 때문에 <span style="color: rgb(245, 235, 13);"><strong>cc 영문 버전</strong></span>으로 신청하는 게 편합니다. 밑은 2023년도 시험일정입니다.
-<img alt="" src="https://velog.velcdn.com/images/kimlj0814/post/4e4ea0fa-f87e-4437-9297-e9c2b7afc989/image.png" /></p>
+포토샵 버전을 선택해 접수를 할 수 있는데 cs4, cs6은 이제 어도비에서 지원하지 않기 때문에 <span style="color: rgb(245, 235, 13);"><strong>cc 영문 버전</strong></span>으로 신청하는 게 편합니다. 밑은 2023년도 시험일정입니다.</p>
+<p><img alt="" src="https://velog.velcdn.com/images/kimlj0814/post/4e4ea0fa-f87e-4437-9297-e9c2b7afc989/image.png" /></p>
 <blockquote>
 <ol start="2">
 <li>단축키 정리</li>
