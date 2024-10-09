@@ -10,7 +10,7 @@ on:
       branches:
         - main
   schedule:
-    - cron: '0 0 * * *'  # 매일 자정에 실행
+    - cron: '0 6 * * *'  # 매일 19시에 실행
 
 jobs:
   update_blog:
@@ -22,8 +22,8 @@ jobs:
 
     - name: Push changes
       run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git config --global user.name 'duwlsssss'
+        git config --global user.email 'rladuwls0814@gmail.com'
         git push https://${{ secrets.GH_PAT }}@github.com/duwlsssss/JoyVelog.git
 
     - name: Set up Python
